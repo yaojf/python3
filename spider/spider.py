@@ -1,8 +1,8 @@
 # coding: utf-8
 __author__ = 'AS126'
 
-from html.parser import HTMLParser
 import re
+from html.parser import HTMLParser
 
 import req
 
